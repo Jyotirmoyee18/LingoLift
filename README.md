@@ -1,4 +1,4 @@
-### LingoLift
+# LingoLift
 The LingoLift is an AI-powered tool designed to rephrase sentences while preserving their original meaning. This project leverages the T5 model from the Hugging Face Transformers library, enabling users to input text and receive high-quality paraphrased results. It is ideal for content writers, students, and professionals looking for diverse ways to express ideas.
 
 # Features
@@ -66,4 +66,4 @@ Contributions are welcome! Please follow these steps:
 # Contact
 For inquiries, feature requests, or bug reports:
 
-Email: [Jyotirmoyeemandal63@gmail.com]
+Email: Jyotirmoyeemandal63@gmail.com
