@@ -67,3 +67,4 @@ Contributions are welcome! Please follow these steps:
 For inquiries, feature requests, or bug reports:
 
 Email: Jyotirmoyeemandal63@gmail.com
+Linkedin: www.linkedin.com/in/jyotirmoyee-mandal-1111j222
