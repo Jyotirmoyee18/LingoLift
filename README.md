@@ -20,8 +20,8 @@ Follow these steps to set up the project on your local machine:
 
 **Clone the Repository:**
 ```
-git clone <repository-url>
-cd paraphrase-generator
+git clone <https://github.com/Jyotirmoyee18/LingoLift.git>
+cd LingoLift
 ```
 
 **Set Up a Virtual Environment:**
